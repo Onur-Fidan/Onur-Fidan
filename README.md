@@ -1,5 +1,7 @@
-### Hi there 👋
-* I'm @Onur-Fidan
+
+* Hi, I'm @Onur-Fidan
+* I’m a iOS Developer
+* I’m currently learning Swift
 
 <!--
 **Onur-Fidan/Onur-Fidan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
